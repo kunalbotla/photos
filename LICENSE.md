@@ -10,7 +10,7 @@ Twitter: kunalbotla
 All media, including photos and videos, by Kunal Botla are copyright from their creation unless sold to another party.
 
 Redistribution and use of media in digital and physical forms, with or without
-modification, are permitted provided that the following conditions are met, including express written permission:
+modification, are permitted provided that the following conditions are met, including express written permission from the copyright holder:
 
 1. Digital and physical forms of media must follow the above copyright notice, this
    list of conditions and the following disclaimer. Media may not be duplicated, 
