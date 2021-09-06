@@ -3,7 +3,7 @@
 This is the repository for my photos!
 
 ## License & Crediting
-The complete licence for my media can be found at [kunalbotla/photos/license](kunalbotla/photos/license).
+The complete licence for my media can be found at [kunalbotla/photos/LICENSE.md](https://github.com/kunalbotla/photos/blob/main/LICENSE.md).
 
 An abridged version is that:
 * I hold copyright for all media I've taken and not sold rights of.
